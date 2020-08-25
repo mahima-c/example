@@ -14,7 +14,6 @@ def Minimumdistance(arr,x,y,n):
             while j<n:
                 if (arr[j]==x or arr[j]==y) and min_distance>abs(i-j):
                     min_distance=abs(i-j)
-                    print(min_distance) 
                 j=j+1             
         i=j
     if min_distance>n:
