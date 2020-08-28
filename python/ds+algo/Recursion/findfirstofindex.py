@@ -1,6 +1,7 @@
 def firstIndex(arr, x):
     # Please add your code here
-    pass
+
+    
 
 # Main
 from sys import setrecursionlimit
